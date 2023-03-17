@@ -1,0 +1,11 @@
+sdkconfig
+sdkconfig.old
+venv
+.DS_Store
+.idea
+data.db
+.vscode/
+.idea/
+build/
+node_modules/
+__pycache__/
