@@ -1,7 +1,7 @@
 # ESP32 CSI Tool
 ## For COMP3516
 
-Please refer to [active_sta/README.md](active_sta/README.md) for more details.
+<span style="color:red">Please refer to [active_sta/README.md](active_sta/README.md) for more details.</span>
 
 ---
 ## Usage
